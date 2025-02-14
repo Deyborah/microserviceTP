@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\services\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\services\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\bookservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\bookservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\bookservice\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36A52AA-7E6E-43C7-90B3-AC478734FF55}|BookService\\BookService.csproj|solutionrelative:bookservice\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{678C8312-36E9-438A-9F00-92F0CED94FCA}|BorrowingService\\BorrowingService.csproj|c:\\users\\deyb\\documents\\microserviceapptp\\borrowingservice\\borrowingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{678C8312-36E9-438A-9F00-92F0CED94FCA}|BorrowingService\\BorrowingService.csproj|solutionrelative:borrowingservice\\borrowingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -23,7 +63,137 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BorrowingService",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\appsettings.json",
+              "RelativeDocumentMoniker": "BookService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\appsettings.json",
+              "RelativeToolTip": "BookService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T15:22:09.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\BookService.csproj",
+              "RelativeDocumentMoniker": "BookService\\BookService.csproj",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\BookService.csproj",
+              "RelativeToolTip": "BookService\\BookService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T14:23:04.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Data\\BookContext.cs",
+              "RelativeDocumentMoniker": "BookService\\Data\\BookContext.cs",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Data\\BookContext.cs",
+              "RelativeToolTip": "BookService\\Data\\BookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:56:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookService\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "BookService\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:53:38.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookService\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookService\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:53:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBooksService.cs",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Services\\IBooksService.cs",
+              "RelativeDocumentMoniker": "BookService\\Services\\IBooksService.cs",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Services\\IBooksService.cs",
+              "RelativeToolTip": "BookService\\Services\\IBooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:38:31.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T13:26:20.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "BookService\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Services\\BooksService.cs",
+              "RelativeToolTip": "BookService\\Services\\BooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:38:15.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookService\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Models\\Book.cs",
+              "RelativeToolTip": "BookService\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:34:30.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookService\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BookService\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookService\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:30:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowingService.csproj",
               "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BorrowingService\\BorrowingService.csproj",
               "RelativeDocumentMoniker": "BorrowingService\\BorrowingService.csproj",
               "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\BorrowingService\\BorrowingService.csproj",
@@ -35,8 +205,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService",
+              "DocumentIndex": 11,
+              "Title": "UserService.csproj",
               "DocumentMoniker": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\UserService\\UserService.csproj",
               "RelativeDocumentMoniker": "UserService\\UserService.csproj",
               "ToolTip": "C:\\Users\\Deyb\\Documents\\MicroserviceAppTp\\UserService\\UserService.csproj",

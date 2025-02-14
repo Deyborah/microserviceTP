@@ -32,3 +32,4 @@ C:\Users\Deyb\Documents\MicroserviceAppTp\BookService\obj\Debug\net9.0\refint\Bo
 C:\Users\Deyb\Documents\MicroserviceAppTp\BookService\obj\Debug\net9.0\BookService.pdb
 C:\Users\Deyb\Documents\MicroserviceAppTp\BookService\obj\Debug\net9.0\BookService.genruntimeconfig.cache
 C:\Users\Deyb\Documents\MicroserviceAppTp\BookService\obj\Debug\net9.0\ref\BookService.dll
+C:\Users\Deyb\Documents\MicroserviceAppTp\BookService\obj\Debug\net9.0\BookService.sourcelink.json

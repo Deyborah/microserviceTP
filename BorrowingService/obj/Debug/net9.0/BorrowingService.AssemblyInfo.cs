@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BorrowingService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d07c8ac57be3ccbc3fd5739207c1d0299acc282f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BorrowingService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BorrowingService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
