@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService", "BookService\BookService.csproj", "{D36A52AA-7E6E-43C7-90B3-AC478734FF55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService", "UserService\UserService.csproj", "{8E495E07-45E5-47D6-8E6C-29D1538555C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorrowingService", "BorrowingService\BorrowingService.csproj", "{678C8312-36E9-438A-9F00-92F0CED94FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D36A52AA-7E6E-43C7-90B3-AC478734FF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36A52AA-7E6E-43C7-90B3-AC478734FF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36A52AA-7E6E-43C7-90B3-AC478734FF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36A52AA-7E6E-43C7-90B3-AC478734FF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E495E07-45E5-47D6-8E6C-29D1538555C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E495E07-45E5-47D6-8E6C-29D1538555C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E495E07-45E5-47D6-8E6C-29D1538555C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E495E07-45E5-47D6-8E6C-29D1538555C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678C8312-36E9-438A-9F00-92F0CED94FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678C8312-36E9-438A-9F00-92F0CED94FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678C8312-36E9-438A-9F00-92F0CED94FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678C8312-36E9-438A-9F00-92F0CED94FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
